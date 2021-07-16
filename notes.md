@@ -13,4 +13,15 @@ And of course, the usage of this account will be minimal, as long as, you know w
 
 ---
 
+<https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a>
+
+```
+Host	github-BGI
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa_BGI
+```
+
+---
+
 To be continued ...
